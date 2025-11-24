@@ -1,0 +1,3 @@
+BOT_TOKEN = "8077553842:AAHbgV9mVeIYLenUEXETjo-FyRDah_-UUX0"
+DATABASE_URL = "sqlite+aiosqlite:///./db.sqlite3"
+PAYMENT_TOKEN = "SIMULATED"
