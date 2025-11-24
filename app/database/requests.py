@@ -79,3 +79,51 @@ async def update_task(task_id: int, title: str, description: str):
         await session.commit()
         await session.refresh(task)
         return task
+
+# Security Systems
+async def get_all_systems():
+    async with async_session() as session:
+        result = await session.execute(select(SecuritySystem))
+        return result.scalars().all()
+
+async def get_systems_by_params(min_cameras: int = 0, min_area: int = 0, max_price: float = 999999):
+    async with async_session() as session:
+        result = await session.execute(
+            select(SecuritySystem)
+            .where(SecuritySystem.cameras_count >= min_cameras)
+            .where(SecuritySystem.coverage_area >= min_area)
+            .where(SecuritySystem.price <= max_price)
+        )
+        return result.scalars().all()
+
+async def get_system_by_id(system_id: int):
+    async with async_session() as session:
+        return await session.get(SecuritySystem, system_id)
+
+# Orders
+async def create_order(user_tg_id: int, system_id: int, phone: str, total_price: float):
+    async with async_session() as session:
+        order = Order(
+            user_tg_id=user_tg_id,
+            system_id=system_id,
+            phone=phone,
+            total_price=total_price,
+            status="paid"
+        )
+        session.add(order)
+        await session.commit()
+        await session.refresh(order)
+        return order
+
+async def get_user_orders(user_tg_id: int):
+    async with async_session() as session:
+        result = await session.execute(
+            select(Order)
+            .where(Order.user_tg_id == user_tg_id)
+            .order_by(desc(Order.created_at))
+        )
+        return result.scalars().all()
+
+async def get_order_by_id(order_id: int):
+    async with async_session() as session:
+        return await session.get(Order, order_id)
