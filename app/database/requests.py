@@ -1,5 +1,5 @@
-from .models import async_session, User, Task
-from sqlalchemy import select
+from .models import async_session, User, Task, SecuritySystem, Order
+from sqlalchemy import select, desc
 
 async def get_or_create_user(tg_id: int, name: str | None = None):
     async with async_session() as session:
@@ -22,6 +22,17 @@ async def update_balance(tg_id: int, new_balance: float):
         if not user:
             return None
         user.balance = new_balance
+        session.add(user)
+        await session.commit()
+        await session.refresh(user)
+        return user
+
+async def update_user_phone(tg_id: int, phone: str):
+    async with async_session() as session:
+        user = await session.scalar(select(User).where(User.tg_id == tg_id))
+        if not user:
+            return None
+        user.phone = phone
         session.add(user)
         await session.commit()
         await session.refresh(user)
