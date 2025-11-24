@@ -1,0 +1,85 @@
+{% extends 'base.html' %}
+
+{% block title %}Головна - Системи відеоспостереження{% endblock %}
+
+{% block content %}
+<div class="text-center mb-5">
+    <h1 class="display-4 fw-bold text-primary mb-3">
+        <i class="bi bi-camera-video-fill"></i> Вітаємо в VideoSecurity
+    </h1>
+    <p class="lead text-muted">Професійний підбір систем відеоспостереження для вашого об'єкта</p>
+</div>
+
+<div class="row g-4">
+    <div class="col-md-4">
+        <div class="card h-100 shadow-sm hover-card">
+            <div class="card-body text-center">
+                <i class="bi bi-house-door display-1 text-primary mb-3"></i>
+                <h5 class="card-title">Для дому</h5>
+                <p class="card-text">Надійний захист вашого будинку та території</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100 shadow-sm hover-card">
+            <div class="card-body text-center">
+                <i class="bi bi-building display-1 text-primary mb-3"></i>
+                <h5 class="card-title">Для офісу</h5>
+                <p class="card-text">Контроль доступу та безпека вашого бізнесу</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card h-100 shadow-sm hover-card">
+            <div class="card-body text-center">
+                <i class="bi bi-shop display-1 text-primary mb-3"></i>
+                <h5 class="card-title">Для магазину</h5>
+                <p class="card-text">Захист товарів та контроль персоналу</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h4 class="card-title mb-3"><i class="bi bi-check-circle text-success"></i> Наші переваги</h4>
+                <ul class="list-unstyled">
+                    <li class="mb-2"><i class="bi bi-check2 text-success"></i> HD та 4K камери</li>
+                    <li class="mb-2"><i class="bi bi-check2 text-success"></i> Нічне бачення</li>
+                    <li class="mb-2"><i class="bi bi-check2 text-success"></i> Мобільний доступ 24/7</li>
+                    <li class="mb-2"><i class="bi bi-check2 text-success"></i> Професійне встановлення</li>
+                    <li class="mb-2"><i class="bi bi-check2 text-success"></i> Гарантія та підтримка</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h4 class="card-title mb-3"><i class="bi bi-telegram text-primary"></i> Telegram Bot</h4>
+                <p>Скористайтесь нашим Telegram ботом для:</p>
+                <ul>
+                    <li>Підбору системи за параметрами</li>
+                    <li>Оформлення замовлення</li>
+                    <li>Перегляду історії покупок</li>
+                    <li>Онлайн консультації</li>
+                </ul>
+                <a href="#" class="btn btn-primary mt-2">
+                    <i class="bi bi-telegram"></i> Відкрити бота
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-5">
+    <a href="/about" class="btn btn-lg btn-outline-primary me-2">
+        <i class="bi bi-info-circle"></i> Дізнатись більше
+    </a>
+    <a href="/tasks" class="btn btn-lg btn-primary">
+        <i class="bi bi-list-check"></i> Переглянути завдання
+    </a>
+</div>
+{% endblock %}
