@@ -1,66 +1,106 @@
 {% extends 'base.html' %}
 
-{% block title %}Про додаток{% endblock %}
+{% block title %}Про нас{% endblock %}
 
 {% block content %}
 <div class="row">
-    <div class="col-lg-8 mx-auto">
-        <div class="card shadow-sm">
+    <div class="col-lg-10 mx-auto">
+        <div class="card shadow-lg border-0">
             <div class="card-body p-5">
-                <h1 class="display-5 fw-bold mb-4">
-                    <i class="bi bi-info-circle text-primary"></i> Про додаток
-                </h1>
+                <div class="text-center mb-5">
+                    <h1 class="display-4 fw-bold text-primary mb-3">
+                        <i class="bi bi-camera-video"></i> SecureVision
+                    </h1>
+                    <p class="lead text-muted">Ваш надійний партнер у безпеці</p>
+                </div>
                 
-                <div class="mb-4">
-                    <h4 class="text-primary">Опис проекту</h4>
+                <div class="mb-5">
+                    <h3 class="text-primary mb-3">
+                        <i class="bi bi-building"></i> Про компанію
+                    </h3>
                     <p class="lead">
-                        Це демонстраційний веб-додаток, створений в рамках практичної роботи з розробки Telegram-ботів 
-                        з використанням бібліотеки Aiogram 3.0.
+                        <strong>SecureVision</strong> — провідна українська компанія у сфері систем відеоспостереження 
+                        та безпеки. Ми спеціалізуємося на розробці, постачанні та обслуговуванні сучасних 
+                        систем відеоспостереження для приватних осіб, бізнесу та великих підприємств.
+                    </p>
+                    <p>
+                        З 2018 року ми допомогли понад <strong>5000+ клієнтів</strong> захистити їхні помешкання, 
+                        офіси та комерційні об'єкти. Наша місія — зробити безпеку доступною для кожного.
                     </p>
                 </div>
 
-                <div class="mb-4">
-                    <h4 class="text-primary">Функціонал</h4>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">
-                            <i class="bi bi-check-circle text-success"></i>
-                            <strong>Telegram бот</strong> - підбір систем відеоспостереження за параметрами
-                        </li>
-                        <li class="list-group-item">
-                            <i class="bi bi-check-circle text-success"></i>
-                            <strong>База даних SQLite</strong> - зберігання користувачів, систем та замовлень
-                        </li>
-                        <li class="list-group-item">
-                            <i class="bi bi-check-circle text-success"></i>
-                            <strong>Імітована оплата</strong> - система балансів та поповнення
-                        </li>
-                        <li class="list-group-item">
-                            <i class="bi bi-check-circle text-success"></i>
-                            <strong>Веб-інтерфейс</strong> - керування завданнями (To-Do List)
-                        </li>
-                        <li class="list-group-item">
-                            <i class="bi bi-check-circle text-success"></i>
-                            <strong>Аутентифікація</strong> - реєстрація та авторизація користувачів
-                        </li>
-                        <li class="list-group-item">
-                            <i class="bi bi-check-circle text-success"></i>
-                            <strong>CRUD операції</strong> - створення, читання, оновлення та видалення завдань
-                        </li>
-                    </ul>
+                <div class="mb-5">
+                    <h3 class="text-primary mb-4">
+                        <i class="bi bi-star"></i> Наші переваги
+                    </h3>
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <div class="card bg-light h-100">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <i class="bi bi-shield-check text-success"></i> Надійність
+                                    </h5>
+                                    <p class="card-text">
+                                        Використовуємо тільки перевірене обладнання від світових виробників. 
+                                        Гарантія на всі системи — до 3 років.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card bg-light h-100">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <i class="bi bi-people text-primary"></i> Професіоналізм
+                                    </h5>
+                                    <p class="card-text">
+                                        Команда сертифікованих інженерів з досвідом понад 10 років. 
+                                        Безкоштовна консультація та підбір рішення під ваші потреби.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card bg-light h-100">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <i class="bi bi-lightning-charge text-warning"></i> Швидкість
+                                    </h5>
+                                    <p class="card-text">
+                                        Монтаж системи від 1 до 3 днів. Екстрене підключення можливе протягом 24 годин.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card bg-light h-100">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <i class="bi bi-headset text-info"></i> Підтримка 24/7
+                                    </h5>
+                                    <p class="card-text">
+                                        Цілодобова технічна підтримка, віддалене налаштування та обслуговування систем.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="mb-4">
-                    <h4 class="text-primary">Технології</h4>
+                <div class="mb-5">
+                    <h3 class="text-primary mb-3">
+                        <i class="bi bi-gear"></i> Технології та функціонал
+                    </h3>
                     <div class="row g-3">
                         <div class="col-md-6">
                             <div class="card bg-light">
                                 <div class="card-body">
-                                    <h6 class="card-title">Backend</h6>
+                                    <h6 class="card-title"><i class="bi bi-robot"></i> Інтелектуальні рішення</h6>
                                     <ul class="mb-0">
-                                        <li>Python 3.11+</li>
-                                        <li>Aiogram 3.0</li>
-                                        <li>Flask</li>
-                                        <li>SQLAlchemy</li>
+                                        <li>AI розпізнавання облич і номерних знаків</li>
+                                        <li>Детекція руху та подій</li>
+                                        <li>Автоматичне налаштування камер</li>
+                                        <li>Smart-аналітика відео</li>
                                     </ul>
                                 </div>
                             </div>
@@ -68,12 +108,12 @@
                         <div class="col-md-6">
                             <div class="card bg-light">
                                 <div class="card-body">
-                                    <h6 class="card-title">Frontend</h6>
+                                    <h6 class="card-title"><i class="bi bi-phone"></i> Мобільний доступ</h6>
                                     <ul class="mb-0">
-                                        <li>HTML5</li>
-                                        <li>CSS3</li>
-                                        <li>Bootstrap 5</li>
-                                        <li>Bootstrap Icons</li>
+                                        <li>iOS та Android додатки</li>
+                                        <li>Перегляд у реальному часі</li>
+                                        <li>Push-сповіщення про події</li>
+                                        <li>Керування через Telegram бот</li>
                                     </ul>
                                 </div>
                             </div>
@@ -81,15 +121,66 @@
                     </div>
                 </div>
 
-                <div class="alert alert-info">
-                    <i class="bi bi-info-circle"></i>
-                    <strong>Примітка:</strong> Дані зберігаються в локальній базі даних SQLite. 
-                    Система оплати є імітованою для навчальних цілей.
+                <div class="mb-5">
+                    <h3 class="text-primary mb-3">
+                        <i class="bi bi-telephone"></i> Контактна інформація
+                    </h3>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card bg-primary bg-gradient text-white">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <i class="bi bi-geo-alt"></i> Адреса офісу
+                                    </h5>
+                                    <p class="mb-2">м. Київ, вул. Хрещатик, 22</p>
+                                    <p class="mb-0"><small>Пн-Пт: 9:00 - 18:00, Сб: 10:00 - 15:00</small></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card bg-success bg-gradient text-white">
+                                <div class="card-body">
+                                    <h5 class="card-title">
+                                        <i class="bi bi-chat-dots"></i> Зв'язок
+                                    </h5>
+                                    <p class="mb-1">
+                                        <i class="bi bi-envelope"></i> info@securevision.ua
+                                    </p>
+                                    <p class="mb-1">
+                                        <i class="bi bi-telephone"></i> +380 44 123 45 67
+                                    </p>
+                                    <p class="mb-0">
+                                        <i class="bi bi-telegram"></i> @SecureVisionBot
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="text-center mt-4">
-                    <a href="/" class="btn btn-primary">
+                <div class="alert alert-info mb-4">
+                    <h5 class="alert-heading">
+                        <i class="bi bi-info-circle"></i> Технічна інформація про додаток
+                    </h5>
+                    <hr>
+                    <p class="mb-2">
+                        <strong>Демо-версія:</strong> Це демонстраційний веб-додаток з інтеграцією Telegram-бота.
+                    </p>
+                    <p class="mb-2">
+                        <strong>Технології:</strong> Python 3.11+, Aiogram 3.0, Flask, SQLAlchemy, Bootstrap 5
+                    </p>
+                    <p class="mb-0">
+                        <strong>Примітка:</strong> Система оплати є імітованою для навчальних цілей. 
+                        Дані зберігаються в локальній БД SQLite.
+                    </p>
+                </div>
+
+                <div class="text-center">
+                    <a href="/" class="btn btn-primary btn-lg">
                         <i class="bi bi-house"></i> На головну
+                    </a>
+                    <a href="/tasks" class="btn btn-outline-primary btn-lg">
+                        <i class="bi bi-list-check"></i> Мої завдання
                     </a>
                 </div>
             </div>
