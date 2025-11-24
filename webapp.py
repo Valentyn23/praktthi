@@ -163,4 +163,4 @@ def tasks_edit(task_id):
 if __name__ == "__main__":
     logger.info("Запуск Flask веб-сервера на порту 5000...")
     logger.info("========================================")
-    app.run(debug=True, port=5000, host='0.0.0.0')
+    app.run(debug=True, port=5001, host='0.0.0.0')

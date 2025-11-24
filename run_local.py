@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Універсальний скрипт запуску для SecureVision
-Запускає Telegram бот та веб-додаток одночасно
-"""
+
 
 import os
 import sys
@@ -13,7 +10,7 @@ import signal
 import platform
 from pathlib import Path
 
-# Кольорові коди для консолі
+
 class Colors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -128,7 +125,7 @@ def run_applications():
         
         print(f"\n{Colors.OKGREEN}{Colors.BOLD}✅ Система успішно запущена!{Colors.ENDC}\n")
         print(f"{Colors.OKCYAN}📱 Telegram бот: працює{Colors.ENDC}")
-        print(f"{Colors.OKCYAN}🌐 Веб-додаток: http://localhost:5000{Colors.ENDC}")
+        print(f"{Colors.OKCYAN}🌐 Веб-додаток: http://localhost:5001{Colors.ENDC}")
         print(f"{Colors.OKCYAN}📋 Логи: logs/bot.log та logs/webapp.log{Colors.ENDC}\n")
         print(f"{Colors.WARNING}💡 Натисніть Ctrl+C для зупинки...{Colors.ENDC}\n")
         

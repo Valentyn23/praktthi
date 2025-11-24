@@ -1,0 +1,416 @@
+2025-11-24 20:16:19 - __main__ - INFO - ========================================
+2025-11-24 20:16:19 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 20:16:19 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 20:16:19 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 20:16:19 - __main__ - INFO - База даних ініціалізована
+2025-11-24 20:16:19 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 20:16:19 - __main__ - INFO - Початкові дані додані
+2025-11-24 20:16:19 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 20:16:19 - __main__ - INFO - ========================================
+2025-11-24 20:16:19 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 20:16:19 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 20:16:22 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 20:16:22 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 20:16:22 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 20:16:22 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:22:47 - __main__ - INFO - ========================================
+2025-11-24 22:22:47 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:22:47 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:22:47 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:22:47 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:22:47 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:22:47 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:22:47 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:22:47 - __main__ - INFO - ========================================
+2025-11-24 22:22:47 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:22:47 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:22:49 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:22:49 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:22:49 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:22:49 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:23:20 - __main__ - INFO - ========================================
+2025-11-24 22:23:20 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:23:20 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:23:20 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:23:20 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:23:20 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:23:20 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:23:20 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:23:20 - __main__ - INFO - ========================================
+2025-11-24 22:23:20 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:23:20 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:23:22 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:23:22 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:23:22 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:23:22 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:23:28 - __main__ - INFO - ========================================
+2025-11-24 22:23:28 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:23:28 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:23:28 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:23:28 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:23:28 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:23:28 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:23:28 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:23:28 - __main__ - INFO - ========================================
+2025-11-24 22:23:28 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:23:28 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:23:29 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:23:29 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:23:29 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:23:29 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:24:16 - __main__ - INFO - ========================================
+2025-11-24 22:24:16 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:24:16 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:24:16 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:24:16 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:24:16 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:24:16 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:24:16 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:24:16 - __main__ - INFO - ========================================
+2025-11-24 22:24:16 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:24:16 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:24:20 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:20 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8077553842)
+2025-11-24 22:24:24 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:24 - aiogram.dispatcher - WARNING - Sleep for 1.117303 seconds and try again... (tryings = 1, bot id = 8077553842)
+2025-11-24 22:24:29 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:29 - aiogram.dispatcher - WARNING - Sleep for 1.466241 seconds and try again... (tryings = 2, bot id = 8077553842)
+2025-11-24 22:24:34 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:34 - aiogram.dispatcher - WARNING - Sleep for 1.728692 seconds and try again... (tryings = 3, bot id = 8077553842)
+2025-11-24 22:24:41 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:41 - aiogram.dispatcher - WARNING - Sleep for 2.099772 seconds and try again... (tryings = 4, bot id = 8077553842)
+2025-11-24 22:24:44 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:44 - aiogram.dispatcher - WARNING - Sleep for 2.743458 seconds and try again... (tryings = 5, bot id = 8077553842)
+2025-11-24 22:24:51 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:51 - aiogram.dispatcher - WARNING - Sleep for 3.579207 seconds and try again... (tryings = 6, bot id = 8077553842)
+2025-11-24 22:24:58 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:24:58 - aiogram.dispatcher - WARNING - Sleep for 4.703951 seconds and try again... (tryings = 7, bot id = 8077553842)
+2025-11-24 22:25:05 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:05 - aiogram.dispatcher - WARNING - Sleep for 4.931240 seconds and try again... (tryings = 8, bot id = 8077553842)
+2025-11-24 22:25:14 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:14 - aiogram.dispatcher - WARNING - Sleep for 5.207536 seconds and try again... (tryings = 9, bot id = 8077553842)
+2025-11-24 22:25:24 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:24 - aiogram.dispatcher - WARNING - Sleep for 4.913786 seconds and try again... (tryings = 10, bot id = 8077553842)
+2025-11-24 22:25:33 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:33 - aiogram.dispatcher - WARNING - Sleep for 5.037502 seconds and try again... (tryings = 11, bot id = 8077553842)
+2025-11-24 22:25:41 - aiogram.dispatcher - INFO - Connection established (tryings = 12, bot id = 8077553842)
+2025-11-24 22:25:42 - aiogram.event - INFO - Update id=888257260 is not handled. Duration 2 ms by bot id=8077553842
+2025-11-24 22:25:42 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:42 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8077553842)
+2025-11-24 22:25:46 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:46 - aiogram.dispatcher - WARNING - Sleep for 1.240992 seconds and try again... (tryings = 1, bot id = 8077553842)
+2025-11-24 22:25:52 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:52 - aiogram.dispatcher - WARNING - Sleep for 1.706861 seconds and try again... (tryings = 2, bot id = 8077553842)
+2025-11-24 22:25:55 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:55 - aiogram.dispatcher - WARNING - Sleep for 2.133472 seconds and try again... (tryings = 3, bot id = 8077553842)
+2025-11-24 22:25:59 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:25:59 - aiogram.dispatcher - WARNING - Sleep for 2.664035 seconds and try again... (tryings = 4, bot id = 8077553842)
+2025-11-24 22:26:06 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:06 - aiogram.dispatcher - WARNING - Sleep for 3.388603 seconds and try again... (tryings = 5, bot id = 8077553842)
+2025-11-24 22:26:12 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:12 - aiogram.dispatcher - WARNING - Sleep for 4.260884 seconds and try again... (tryings = 6, bot id = 8077553842)
+2025-11-24 22:26:22 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:22 - aiogram.dispatcher - WARNING - Sleep for 4.971553 seconds and try again... (tryings = 7, bot id = 8077553842)
+2025-11-24 22:26:30 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:30 - aiogram.dispatcher - WARNING - Sleep for 5.013114 seconds and try again... (tryings = 8, bot id = 8077553842)
+2025-11-24 22:26:40 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:40 - aiogram.dispatcher - WARNING - Sleep for 5.053145 seconds and try again... (tryings = 9, bot id = 8077553842)
+2025-11-24 22:26:49 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:49 - aiogram.dispatcher - WARNING - Sleep for 5.066060 seconds and try again... (tryings = 10, bot id = 8077553842)
+2025-11-24 22:26:58 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:26:58 - aiogram.dispatcher - WARNING - Sleep for 5.019137 seconds and try again... (tryings = 11, bot id = 8077553842)
+2025-11-24 22:27:07 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:27:07 - aiogram.dispatcher - WARNING - Sleep for 4.987288 seconds and try again... (tryings = 12, bot id = 8077553842)
+2025-11-24 22:27:16 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:27:16 - aiogram.dispatcher - WARNING - Sleep for 5.011884 seconds and try again... (tryings = 13, bot id = 8077553842)
+2025-11-24 22:27:26 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:27:26 - aiogram.dispatcher - WARNING - Sleep for 5.142586 seconds and try again... (tryings = 14, bot id = 8077553842)
+2025-11-24 22:27:35 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:27:35 - aiogram.dispatcher - WARNING - Sleep for 4.962104 seconds and try again... (tryings = 15, bot id = 8077553842)
+2025-11-24 22:27:44 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:27:44 - aiogram.dispatcher - WARNING - Sleep for 5.055449 seconds and try again... (tryings = 16, bot id = 8077553842)
+2025-11-24 22:27:53 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:27:53 - aiogram.dispatcher - WARNING - Sleep for 4.901157 seconds and try again... (tryings = 17, bot id = 8077553842)
+2025-11-24 22:27:58 - aiogram.dispatcher - INFO - Connection established (tryings = 18, bot id = 8077553842)
+2025-11-24 22:27:58 - aiogram.event - INFO - Update id=888257262 is not handled. Duration 5 ms by bot id=8077553842
+2025-11-24 22:27:58 - aiogram.event - ERROR - Cause exception while process update id=888257262 by bot id=8077553842
+OperationalError: (sqlite3.OperationalError) no such column: users.phone
+[SQL: SELECT users.id, users.tg_id, users.name, users.balance, users.phone 
+FROM users 
+WHERE users.tg_id = ?]
+[parameters: (503252905,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Traceback (most recent call last):
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1965, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 921, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 113, in execute
+    self._adapt_connection._handle_exception(error)
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 263, in _handle_exception
+    raise error
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 95, in execute
+    self.await_(_cursor.execute(operation, parameters))
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 125, in await_only
+    return current.driver.switch(awaitable)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 185, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 48, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 40, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 133, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 106, in run
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: users.phone
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/Downloads/app/app/handlers.py", line 33, in cmd_start
+    await get_or_create_user(message.from_user.id, message.from_user.full_name)
+  File "/Users/valentynzatserkovnyi/Downloads/app/app/database/requests.py", line 6, in get_or_create_user
+    result = await session.scalar(select(User).where(User.tg_id == tg_id))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/ext/asyncio/session.py", line 512, in scalar
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 190, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 2312, in scalar
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 2144, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1412, in execute
+    return meth(
+           ^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 516, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1844, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1984, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2339, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1965, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 921, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 113, in execute
+    self._adapt_connection._handle_exception(error)
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 263, in _handle_exception
+    raise error
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 95, in execute
+    self.await_(_cursor.execute(operation, parameters))
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 125, in await_only
+    return current.driver.switch(awaitable)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 185, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 48, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 40, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 133, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/valentynzatserkovnyi/PycharmProjects/prakt2/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 106, in run
+    result = function()
+             ^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such column: users.phone
+[SQL: SELECT users.id, users.tg_id, users.name, users.balance, users.phone 
+FROM users 
+WHERE users.tg_id = ?]
+[parameters: (503252905,)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-24 22:28:02 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:02 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8077553842)
+2025-11-24 22:28:06 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:06 - aiogram.dispatcher - WARNING - Sleep for 1.375720 seconds and try again... (tryings = 1, bot id = 8077553842)
+2025-11-24 22:28:12 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:12 - aiogram.dispatcher - WARNING - Sleep for 1.928572 seconds and try again... (tryings = 2, bot id = 8077553842)
+2025-11-24 22:28:17 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:17 - aiogram.dispatcher - WARNING - Sleep for 2.359344 seconds and try again... (tryings = 3, bot id = 8077553842)
+2025-11-24 22:28:25 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:25 - aiogram.dispatcher - WARNING - Sleep for 3.131173 seconds and try again... (tryings = 4, bot id = 8077553842)
+2025-11-24 22:28:33 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:33 - aiogram.dispatcher - WARNING - Sleep for 4.007717 seconds and try again... (tryings = 5, bot id = 8077553842)
+2025-11-24 22:28:41 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:41 - aiogram.dispatcher - WARNING - Sleep for 5.002902 seconds and try again... (tryings = 6, bot id = 8077553842)
+2025-11-24 22:28:51 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:51 - aiogram.dispatcher - WARNING - Sleep for 5.030859 seconds and try again... (tryings = 7, bot id = 8077553842)
+2025-11-24 22:28:59 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:28:59 - aiogram.dispatcher - WARNING - Sleep for 4.924120 seconds and try again... (tryings = 8, bot id = 8077553842)
+2025-11-24 22:29:09 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:29:09 - aiogram.dispatcher - WARNING - Sleep for 5.053848 seconds and try again... (tryings = 9, bot id = 8077553842)
+2025-11-24 22:29:17 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:29:17 - aiogram.dispatcher - WARNING - Sleep for 5.019910 seconds and try again... (tryings = 10, bot id = 8077553842)
+2025-11-24 22:29:28 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:29:28 - aiogram.dispatcher - WARNING - Sleep for 5.042758 seconds and try again... (tryings = 11, bot id = 8077553842)
+2025-11-24 22:29:38 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:29:38 - aiogram.dispatcher - WARNING - Sleep for 5.223031 seconds and try again... (tryings = 12, bot id = 8077553842)
+2025-11-24 22:29:47 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:29:47 - aiogram.dispatcher - WARNING - Sleep for 5.076641 seconds and try again... (tryings = 13, bot id = 8077553842)
+2025-11-24 22:29:56 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:29:56 - aiogram.dispatcher - WARNING - Sleep for 4.986979 seconds and try again... (tryings = 14, bot id = 8077553842)
+2025-11-24 22:30:05 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:30:05 - aiogram.dispatcher - WARNING - Sleep for 5.036881 seconds and try again... (tryings = 15, bot id = 8077553842)
+2025-11-24 22:30:15 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:30:15 - aiogram.dispatcher - WARNING - Sleep for 4.911971 seconds and try again... (tryings = 16, bot id = 8077553842)
+2025-11-24 22:30:24 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:30:24 - aiogram.dispatcher - WARNING - Sleep for 4.885770 seconds and try again... (tryings = 17, bot id = 8077553842)
+2025-11-24 22:30:34 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:30:34 - aiogram.dispatcher - WARNING - Sleep for 5.036681 seconds and try again... (tryings = 18, bot id = 8077553842)
+2025-11-24 22:30:42 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-24 22:30:42 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:30:42 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:30:42 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:30:42 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:33:58 - __main__ - INFO - ========================================
+2025-11-24 22:33:58 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:33:58 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:33:58 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:33:58 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:33:58 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:33:58 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:33:58 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:33:58 - __main__ - INFO - ========================================
+2025-11-24 22:33:58 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:33:58 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:34:03 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:34:03 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8077553842)
+2025-11-24 22:34:08 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:34:08 - aiogram.dispatcher - WARNING - Sleep for 1.273547 seconds and try again... (tryings = 1, bot id = 8077553842)
+2025-11-24 22:34:13 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:34:13 - aiogram.dispatcher - WARNING - Sleep for 1.766243 seconds and try again... (tryings = 2, bot id = 8077553842)
+2025-11-24 22:34:20 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:34:20 - aiogram.dispatcher - WARNING - Sleep for 2.275760 seconds and try again... (tryings = 3, bot id = 8077553842)
+2025-11-24 22:34:27 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-11-24 22:34:27 - aiogram.dispatcher - WARNING - Sleep for 2.909464 seconds and try again... (tryings = 4, bot id = 8077553842)
+2025-11-24 22:34:29 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-24 22:34:29 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:34:29 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:34:29 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:34:29 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:35:31 - __main__ - INFO - ========================================
+2025-11-24 22:35:31 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:35:31 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:35:31 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:35:31 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:35:31 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:35:31 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:35:31 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:35:31 - __main__ - INFO - ========================================
+2025-11-24 22:35:31 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:35:32 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:35:34 - aiogram.event - INFO - Update id=888257265 is handled. Duration 246 ms by bot id=8077553842
+2025-11-24 22:35:36 - aiogram.event - INFO - Update id=888257266 is handled. Duration 60 ms by bot id=8077553842
+2025-11-24 22:35:38 - aiogram.event - INFO - Update id=888257267 is handled. Duration 155 ms by bot id=8077553842
+2025-11-24 22:35:43 - aiogram.event - INFO - Update id=888257268 is handled. Duration 124 ms by bot id=8077553842
+2025-11-24 22:35:47 - aiogram.event - INFO - Update id=888257269 is handled. Duration 111 ms by bot id=8077553842
+2025-11-24 22:35:49 - aiogram.event - INFO - Update id=888257270 is handled. Duration 64 ms by bot id=8077553842
+2025-11-24 22:35:55 - aiogram.event - INFO - Update id=888257271 is handled. Duration 72 ms by bot id=8077553842
+2025-11-24 22:35:58 - aiogram.event - INFO - Update id=888257272 is handled. Duration 437 ms by bot id=8077553842
+2025-11-24 22:36:02 - aiogram.event - INFO - Update id=888257273 is handled. Duration 342 ms by bot id=8077553842
+2025-11-24 22:36:05 - aiogram.event - INFO - Update id=888257274 is handled. Duration 63 ms by bot id=8077553842
+2025-11-24 22:36:06 - aiogram.event - INFO - Update id=888257275 is handled. Duration 113 ms by bot id=8077553842
+2025-11-24 22:36:10 - aiogram.event - INFO - Update id=888257276 is handled. Duration 110 ms by bot id=8077553842
+2025-11-24 22:36:11 - aiogram.event - INFO - Update id=888257277 is handled. Duration 114 ms by bot id=8077553842
+2025-11-24 22:36:18 - aiogram.event - INFO - Update id=888257278 is handled. Duration 87 ms by bot id=8077553842
+2025-11-24 22:36:20 - aiogram.event - INFO - Update id=888257279 is handled. Duration 147 ms by bot id=8077553842
+2025-11-24 22:38:00 - aiogram.event - INFO - Update id=888257280 is handled. Duration 186 ms by bot id=8077553842
+2025-11-24 22:38:03 - aiogram.event - INFO - Update id=888257281 is handled. Duration 66 ms by bot id=8077553842
+2025-11-24 22:40:52 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-24 22:40:52 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:40:52 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:40:52 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:40:52 - __main__ - INFO - Бот зупинено, з'єднання закрито
+2025-11-24 22:46:29 - __main__ - INFO - ========================================
+2025-11-24 22:46:29 - __main__ - INFO - Запуск Telegram бота...
+2025-11-24 22:46:29 - __main__ - INFO - Токен бота: 8077553842...
+2025-11-24 22:46:29 - __main__ - INFO - Ініціалізація бази даних...
+2025-11-24 22:46:29 - __main__ - INFO - База даних ініціалізована
+2025-11-24 22:46:29 - __main__ - INFO - Додавання початкових даних...
+2025-11-24 22:46:29 - __main__ - INFO - Початкові дані додані
+2025-11-24 22:46:29 - __main__ - INFO - Бот успішно запущено! Очікування повідомлень...
+2025-11-24 22:46:29 - __main__ - INFO - ========================================
+2025-11-24 22:46:29 - aiogram.dispatcher - INFO - Start polling
+2025-11-24 22:46:29 - aiogram.dispatcher - INFO - Run polling for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:46:36 - aiogram.event - INFO - Update id=888257282 is handled. Duration 239 ms by bot id=8077553842
+2025-11-24 22:46:40 - aiogram.event - INFO - Update id=888257283 is handled. Duration 222 ms by bot id=8077553842
+2025-11-24 22:46:43 - aiogram.event - INFO - Update id=888257284 is handled. Duration 66 ms by bot id=8077553842
+2025-11-24 22:46:46 - aiogram.event - INFO - Update id=888257285 is handled. Duration 164 ms by bot id=8077553842
+2025-11-24 22:46:49 - aiogram.event - INFO - Update id=888257286 is handled. Duration 76 ms by bot id=8077553842
+2025-11-24 22:46:52 - aiogram.event - INFO - Update id=888257287 is handled. Duration 80 ms by bot id=8077553842
+2025-11-24 22:47:18 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-24 22:47:18 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-11-24 22:47:18 - aiogram.dispatcher - INFO - Polling stopped for bot @PidbirCamer_bot id=8077553842 - 'Pidbir'
+2025-11-24 22:47:18 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-24 22:47:18 - __main__ - INFO - Бот зупинено, з'єднання закрито

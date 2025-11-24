@@ -6,7 +6,7 @@ main = ReplyKeyboardMarkup(
         [KeyboardButton(text='Каталог')],
         [KeyboardButton(text='Баланс'), KeyboardButton(text='Мої замовлення')],
         [KeyboardButton(text='Поповнити баланс')],
-        [KeyboardButton(text='Web App', web_app=WebAppInfo(url='https://example.com'))],  # Замінити на реальний URL
+        [KeyboardButton(text='Web App', web_app=WebAppInfo(url='http://localhost:5001'))],
     ],
     resize_keyboard=True,
     input_field_placeholder='Оберіть дію...'
